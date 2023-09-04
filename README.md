@@ -49,12 +49,9 @@
 
 <p align="center">
   <a href="https://github.com/EtaiWil/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtaiWil&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=444444" alt="Etai's Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtaiWil&layout=compact&&theme=react&alt="Etai's Top Langs">
   </a>
 </p>
-
-
-
 
  <div style="display: flex; justify-content: space-between; align-items: center;">
   <img width="390" src="https://streak-stats.demolab.com/?user=EtaiWil&count_private=true&theme=react&border_radius=10" alt="streak stats" />
