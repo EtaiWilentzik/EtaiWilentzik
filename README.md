@@ -14,7 +14,7 @@
 
 :mailbox: Reach me out!<br>
 <p align="left">
-  <a href="mailto:etaiwill2000@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:etaiwil2000@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/652/PNG/48/gmail_icon-icons.com_59877.png" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/etai-wilentzik-b5a106212/" target="_blank" rel="noreferrer">
