@@ -5,7 +5,7 @@
 
 
 
-## Hello, World! 👋
+<br>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EtaiWil.EtaiWil" />
 
 <h1 align="center">
@@ -13,8 +13,23 @@
 </h1>
 
 :mailbox: Reach me out!<br>
- [![Linkedin Badge](https://img.shields.io/badge/-Linkdlin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etai-wilentzik-b5a106212/) 
- [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:etaiwil2000@gmail.com)
+<p align="left">
+  <a href="mailto:etaiwill2000@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/652/PNG/48/gmail_icon-icons.com_59877.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/etai-wilentzik-b5a106212/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
  
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
