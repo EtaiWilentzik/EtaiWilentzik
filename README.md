@@ -6,10 +6,10 @@
 
 
 <br>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EtaiWil.EtaiWil" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EtaiWilentzik.EtaiWilentzik" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Etai+Wilentzik!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+there!+👋;+I'm+Etai+Wilentzik!;" />
 </h1>
 
 :mailbox: Reach me out!<br>
@@ -63,10 +63,10 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtaiWil&theme=react&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtaiWilentzik&theme=react&layout=compact)
 
  
-  <img width="390" src="https://streak-stats.demolab.com/?user=EtaiWil&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=EtaiWilentzik&count_private=true&theme=react&border_radius=10" alt="streak stats" />
 
 
   
