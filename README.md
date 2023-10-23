@@ -62,7 +62,9 @@
  
   <img width="390" src="https://streak-stats.demolab.com/?user=EtaiWilentzik&count_private=true&theme=react&border_radius=10" alt="streak stats" />
 
-
+<p align="left">
+  <a href="https://github.com/EtaiWilentzik?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
   
 
 
