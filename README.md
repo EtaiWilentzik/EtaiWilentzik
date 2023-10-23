@@ -1,9 +1,3 @@
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#ffffb5](https://placehold.co/15x15/ffffb5/ffffb5.png) `#ffffb5`
-- ![#9E69AF](https://placehold.co/15x15/9E69AF/9E69AF.png) `#9E69AF`
- - ![#8fcaca](https://placehold.co/15x15/8fcaca/8fcaca.png) `#8fcaca`
-
-
 
 <br>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EtaiWilentzik.EtaiWilentzik"/>
@@ -12,10 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+there!+👋;+I'm+Etai+Wilentzik!;" />
 </h1>
 
-:mailbox: Reach me out!<br>
+:mailbox: Reach me out: etaiwil2000@gmail.com!<br>
 <p align="left">
-  <a href="mailto:etaiwil2000@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/652/PNG/48/gmail_icon-icons.com_59877.png" alt="Gmail" width="40" height="40"/>
+
+
   </a>
   <a href="https://www.linkedin.com/in/etai-wilentzik-b5a106212/" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png" alt="LinkedIn" width="40" height="40"/>
